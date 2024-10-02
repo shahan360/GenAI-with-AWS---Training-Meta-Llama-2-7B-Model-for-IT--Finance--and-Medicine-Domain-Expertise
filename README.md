@@ -39,8 +39,8 @@ The result of the project is a highly optimized, domain-specific text generation
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shahan360/domain-specific-text-generation.git
-   cd domain-specific-text-generation
+   git clone https://github.com/shahan360/GenAI-with-AWS---Training-Meta-Llama-2-7B-Model-for-IT--Finance--and-Sales-Domain-Expertise.git
+   cd GenAI-with-AWS---Training-Meta-Llama-2-7B-Model-for-IT--Finance--and-Sales-Domain-Expertise
 2. Install the required Python packages.
 3. Configure AWS CLI and set up IAM roles for access to SageMaker and S3.
 
