@@ -1,7 +1,7 @@
-# GenAI with AWS: Training Meta Llama 2 7B Model for IT, Finance, and Sales Domain Expertise viz. Domain-Specific Text Generation using Meta Llama 2 7B Model on AWS
+# GenAI with AWS: Training Meta Llama 2 7B Model for IT, Finance, and Medicine Domain Expertise viz. Domain-Specific Text Generation using Meta Llama 2 7B Model on AWS
 
 ## Project Overview
-This project leverages a comprehensive suite of AWS services to fine-tune the **Meta Llama 2 7B Text Generation Model** for achieving domain-specific expertise in IT, Finance, and Sales. The model is trained on large datasets stored in Amazon S3 and deployed using AWS SageMaker for efficient handling of text generation tasks within each targeted domain.
+This project leverages a comprehensive suite of AWS services to fine-tune the **Meta Llama 2 7B Text Generation Model** for achieving domain-specific expertise in IT, Finance, and Medicine. The model is trained on large datasets stored in Amazon S3 and deployed using AWS SageMaker for efficient handling of text generation tasks within each targeted domain.
 
 ## Key AWS Services Utilized
 - **Amazon EC2**: Provides scalable compute resources required to train and deploy the model.
@@ -20,11 +20,11 @@ This project leverages a comprehensive suite of AWS services to fine-tune the **
 6. **Pipeline Orchestration**: Employed **AWS Partyrock** for seamless orchestration and monitoring of the training workflow, ensuring optimal performance.
 
 ## Project Outcome
-The result of the project is a highly optimized, domain-specific text generation model capable of generating insights and handling tasks within the IT, Finance, and Sales domains. The model can now be used for automating content generation, generating domain-specific reports, and improving decision-making processes in these fields.
+The result of the project is a highly optimized, domain-specific text generation model capable of generating insights and handling tasks within the IT, Finance, and Medicine domains. The model can now be used for automating content generation, generating domain-specific reports, and improving decision-making processes in these fields.
 
 ## Repository Contents
 - `Project_Completed/`: Contains code for data preprocessing, model setup, and training execution.
-- `datasets/`: Sample datasets used for training in IT, Finance, and Sales domains.
+- `datasets/`: Sample datasets used for training in IT, Finance, and Medicine domains.
 - `Certificate_of_Completion/`: Program Graduation Certificate from Udacity.
 - `Jupyter_Notebooks/`: Jupyter notebooks showcasing the model training and evaluation process.
 - `README.md`: Project documentation.
@@ -39,8 +39,8 @@ The result of the project is a highly optimized, domain-specific text generation
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shahan360/GenAI-with-AWS---Training-Meta-Llama-2-7B-Model-for-IT--Finance--and-Sales-Domain-Expertise.git
-   cd GenAI-with-AWS---Training-Meta-Llama-2-7B-Model-for-IT--Finance--and-Sales-Domain-Expertise
+   git clone https://github.com/shahan360/GenAI-with-AWS---Training-Meta-Llama-2-7B-Model-for-IT--Finance--and-Medicine-Domain-Expertise.git
+   cd GenAI-with-AWS---Training-Meta-Llama-2-7B-Model-for-IT--Finance--and-Medicine-Domain-Expertise
 2. Install the required Python packages.
 3. Configure AWS CLI and set up IAM roles for access to SageMaker and S3.
 
